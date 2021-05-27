@@ -26,3 +26,6 @@ In this version, the log in have not done yet, due to the crash after connecting
 - The server has not been disconnected yet.
 ## Display
 - There is no interface for the server, only for the client using the tkinter library.
+
+### Teacher Requirements
+![image](https://user-images.githubusercontent.com/67527838/119859847-f2a9ef00-bf3f-11eb-8271-d82012e51ed3.png)
